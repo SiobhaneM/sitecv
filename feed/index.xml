@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Siobhane Mouchez</title>
+	<atom:link href="https://cvsiobhane/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cvsiobhane</link>
+	<description>Web designer</description>
+	<lastBuildDate>Fri, 25 Oct 2019 08:19:07 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+
+<image>
+	<url>https://cvsiobhane/wp-content/uploads/2019/10/Webp.net-resizeimage-139x150.png</url>
+	<title>Siobhane Mouchez</title>
+	<link>https://cvsiobhane</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CV papier</title>
+		<link>https://cvsiobhane/2019/10/25/cv-papier/</link>
+				<pubDate>Fri, 25 Oct 2019 08:10:48 +0000</pubDate>
+		<dc:creator><![CDATA[Siobhane]]></dc:creator>
+				<category><![CDATA[Non classé]]></category>
+
+		<guid isPermaLink="false">https://cvsiobhane/?p=85</guid>
+				<description><![CDATA[CV à imprimer]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="85" class="elementor elementor-85" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-6fb2cd66 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6fb2cd66" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-44398921 elementor-column elementor-col-100 elementor-top-column" data-id="44398921" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-15f080f5 elementor-widget elementor-widget-text-editor" data-id="15f080f5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img alt=""/></figure>
+<!-- /wp:image --></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-c66122e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c66122e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-65828f5 elementor-column elementor-col-100 elementor-top-column" data-id="65828f5" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-16b0196 elementor-widget elementor-widget-image" data-id="16b0196" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="https://cvsiobhane/wp-content/uploads/2019/10/CV-2.svg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-727fcc2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="727fcc2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6c1b066 elementor-column elementor-col-100 elementor-top-column" data-id="6c1b066" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c8aee3a elementor-widget elementor-widget-image" data-id="c8aee3a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="https://cvsiobhane/wp-content/uploads/2019/10/CV-2.svg" class="elementor-animation-float attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-60c7487 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="60c7487" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-32776a5 elementor-column elementor-col-100 elementor-top-column" data-id="32776a5" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2c0fc6f elementor-widget elementor-widget-heading" data-id="2c0fc6f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-small">CV à imprimer</h1>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+										</item>
+	</channel>
+</rss>
